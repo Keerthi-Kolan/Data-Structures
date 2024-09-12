@@ -4,11 +4,11 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class OperationsOnBinaryTree {
+public class CompleteBinaryTree {
     static Scanner sc;
     static Node root;
     public static void main(String[] args) {
-        OperationsOnBinaryTree opertion=new OperationsOnBinaryTree();
+        CompleteBinaryTree opertion=new CompleteBinaryTree();
         sc=new Scanner(System.in);
         root=null;
         while(true){
